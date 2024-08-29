@@ -1,0 +1,33 @@
+{
+    "Groceries": [
+      {
+        "amount": 50.00,
+        "category": "Groceries",
+        "type": "Expense",
+        "date": "2024-04-28"
+      },
+      {
+        "amount": 25.00,
+        "category": "Groceries",
+        "type": "Expense",
+        "date": "2024-04-27"
+      }
+    ],
+    "Salary": [
+      {
+        "amount": 2000.00,
+        "category": "Salary",
+        "type": "Income",
+        "date": "2024-04-26"
+      }
+    ],
+    "Utilities": [
+      {
+        "amount": 100.00,
+        "category": "Utilities",
+        "type": "Expense",
+        "date": "2024-04-25"
+      }
+    ]
+  }
+  
